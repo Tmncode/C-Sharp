@@ -1,0 +1,10 @@
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe.config
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.pdb
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.frmInvoiceData.resources
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Properties.Resources.resources
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.GenerateResource.cache
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.exe
+D:\C#\CSharp.Chapter.14\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.pdb
