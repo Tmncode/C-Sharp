@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.05\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.csprojAssemblyReference.cache
+C:\CSharp\Chapter.05\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.exe.config
+C:\CSharp\Chapter.05\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.exe
+C:\CSharp\Chapter.05\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.pdb
+C:\CSharp\Chapter.05\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.exe
+C:\CSharp\Chapter.05\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.pdb
