@@ -1,0 +1,10 @@
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\bin\Debug\HighScore.exe.config
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\bin\Debug\HighScore.exe
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\bin\Debug\HighScore.pdb
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.frmHighScore.resources
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.Properties.Resources.resources
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.csproj.GenerateResource.cache
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.exe
+D:\C#\CSharp.Chapter.14\HighScore\HighScore\obj\Debug\HighScore.pdb
