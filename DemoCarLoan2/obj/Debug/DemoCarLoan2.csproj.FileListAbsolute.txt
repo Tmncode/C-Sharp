@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.10\DemoCarLoan2\bin\Debug\DemoCarLoan2.exe.config
+C:\CSharp\Chapter.10\DemoCarLoan2\bin\Debug\DemoCarLoan2.exe
+C:\CSharp\Chapter.10\DemoCarLoan2\bin\Debug\DemoCarLoan2.pdb
+C:\CSharp\Chapter.10\DemoCarLoan2\obj\Debug\DemoCarLoan2.csprojAssemblyReference.cache
+C:\CSharp\Chapter.10\DemoCarLoan2\obj\Debug\DemoCarLoan2.exe
+C:\CSharp\Chapter.10\DemoCarLoan2\obj\Debug\DemoCarLoan2.pdb
