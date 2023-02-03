@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.03\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\CSharp\Chapter.03\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\CSharp\Chapter.03\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\CSharp\Chapter.03\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojAssemblyReference.cache
+C:\CSharp\Chapter.03\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloForm.resources
+C:\CSharp\Chapter.03\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\CSharp\Chapter.03\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.cache
+C:\CSharp\Chapter.03\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\CSharp\Chapter.03\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
