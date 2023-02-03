@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.10\OrderDemo2\bin\Debug\OrderDemo2.exe.config
+C:\CSharp\Chapter.10\OrderDemo2\bin\Debug\OrderDemo2.exe
+C:\CSharp\Chapter.10\OrderDemo2\bin\Debug\OrderDemo2.pdb
+C:\CSharp\Chapter.10\OrderDemo2\obj\Debug\OrderDemo2.csprojAssemblyReference.cache
+C:\CSharp\Chapter.10\OrderDemo2\obj\Debug\OrderDemo2.exe
+C:\CSharp\Chapter.10\OrderDemo2\obj\Debug\OrderDemo2.pdb
