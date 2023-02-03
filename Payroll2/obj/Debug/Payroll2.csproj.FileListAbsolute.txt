@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.03\Payroll2\bin\Debug\Payroll2.exe.config
+C:\CSharp\Chapter.03\Payroll2\bin\Debug\Payroll2.exe
+C:\CSharp\Chapter.03\Payroll2\bin\Debug\Payroll2.pdb
+C:\CSharp\Chapter.03\Payroll2\obj\Debug\Payroll2.csprojAssemblyReference.cache
+C:\CSharp\Chapter.03\Payroll2\obj\Debug\Payroll2.Form1.resources
+C:\CSharp\Chapter.03\Payroll2\obj\Debug\Payroll2.Properties.Resources.resources
+C:\CSharp\Chapter.03\Payroll2\obj\Debug\Payroll2.csproj.GenerateResource.cache
+C:\CSharp\Chapter.03\Payroll2\obj\Debug\Payroll2.exe
+C:\CSharp\Chapter.03\Payroll2\obj\Debug\Payroll2.pdb
