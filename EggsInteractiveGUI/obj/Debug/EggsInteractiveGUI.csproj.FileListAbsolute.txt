@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.03\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\CSharp\Chapter.03\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\CSharp\Chapter.03\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\CSharp\Chapter.03\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csprojAssemblyReference.cache
+C:\CSharp\Chapter.03\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.eggCalculator.resources
+C:\CSharp\Chapter.03\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\CSharp\Chapter.03\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.cache
+C:\CSharp\Chapter.03\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+C:\CSharp\Chapter.03\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb
