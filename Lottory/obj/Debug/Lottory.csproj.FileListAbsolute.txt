@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.04\Lottory\bin\Debug\Lottory.exe.config
+C:\CSharp\Chapter.04\Lottory\bin\Debug\Lottory.exe
+C:\CSharp\Chapter.04\Lottory\bin\Debug\Lottory.pdb
+C:\CSharp\Chapter.04\Lottory\obj\Debug\Lottory.csprojAssemblyReference.cache
+C:\CSharp\Chapter.04\Lottory\obj\Debug\Lottory.exe
+C:\CSharp\Chapter.04\Lottory\obj\Debug\Lottory.pdb
