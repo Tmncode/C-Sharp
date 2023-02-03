@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.11\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+C:\CSharp\Chapter.11\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+C:\CSharp\Chapter.11\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+C:\CSharp\Chapter.11\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojAssemblyReference.cache
+C:\CSharp\Chapter.11\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+C:\CSharp\Chapter.11\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb

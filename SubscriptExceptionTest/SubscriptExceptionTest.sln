@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptExceptionTest", "SubscriptExceptionTest.csproj", "{9C1B5B9E-3260-421B-BBFF-53AFF13E30EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1B5B9E-3260-421B-BBFF-53AFF13E30EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1B5B9E-3260-421B-BBFF-53AFF13E30EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1B5B9E-3260-421B-BBFF-53AFF13E30EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1B5B9E-3260-421B-BBFF-53AFF13E30EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987DE586-4A10-4CCF-9B66-8DCF966E8C0B}
+	EndGlobalSection
+EndGlobal
