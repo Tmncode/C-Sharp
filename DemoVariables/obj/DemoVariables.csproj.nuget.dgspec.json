@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CSharp\\Chapter.02\\DemoVariables\\DemoVariables.csproj": {}
+  },
+  "projects": {
+    "C:\\CSharp\\Chapter.02\\DemoVariables\\DemoVariables.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CSharp\\Chapter.02\\DemoVariables\\DemoVariables.csproj",
+        "projectName": "DemoVariables",
+        "projectPath": "C:\\CSharp\\Chapter.02\\DemoVariables\\DemoVariables.csproj",
+        "packagesPath": "C:\\Users\\tn0968874\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharp\\Chapter.02\\DemoVariables\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tn0968874\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
