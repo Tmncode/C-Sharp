@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\variable declared test num 6\bin\Debug\netcoreapp2.1\chapter 2 test.deps.json
+C:\CSharp\Chapter.02\variable declared test num 6\bin\Debug\netcoreapp2.1\chapter 2 test.runtimeconfig.json
+C:\CSharp\Chapter.02\variable declared test num 6\bin\Debug\netcoreapp2.1\chapter 2 test.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\variable declared test num 6\bin\Debug\netcoreapp2.1\chapter 2 test.dll
+C:\CSharp\Chapter.02\variable declared test num 6\bin\Debug\netcoreapp2.1\chapter 2 test.pdb
+C:\CSharp\Chapter.02\variable declared test num 6\obj\Debug\netcoreapp2.1\chapter 2 test.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\variable declared test num 6\obj\Debug\netcoreapp2.1\chapter 2 test.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\variable declared test num 6\obj\Debug\netcoreapp2.1\chapter 2 test.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\variable declared test num 6\obj\Debug\netcoreapp2.1\chapter 2 test.AssemblyInfo.cs
+C:\CSharp\Chapter.02\variable declared test num 6\obj\Debug\netcoreapp2.1\chapter 2 test.dll
+C:\CSharp\Chapter.02\variable declared test num 6\obj\Debug\netcoreapp2.1\chapter 2 test.pdb
