@@ -1,0 +1,13 @@
+C:\C#\CheckZip\CheckZip\obj\Debug\CheckZip.csprojAssemblyReference.cache
+C:\C#\CheckZip\CheckZip\bin\Debug\CheckZip.exe.config
+C:\C#\CheckZip\CheckZip\bin\Debug\CheckZip.exe
+C:\C#\CheckZip\CheckZip\bin\Debug\CheckZip.pdb
+C:\C#\CheckZip\CheckZip\obj\Debug\CheckZip.exe
+C:\C#\CheckZip\CheckZip\obj\Debug\CheckZip.pdb
+D:\C# Programs\CheckZip\CheckZip\bin\Debug\CheckZip.exe.config
+D:\C# Programs\CheckZip\CheckZip\bin\Debug\CheckZip.exe
+D:\C# Programs\CheckZip\CheckZip\bin\Debug\CheckZip.pdb
+D:\C# Programs\CheckZip\CheckZip\obj\Debug\CheckZip.csproj.AssemblyReference.cache
+D:\C# Programs\CheckZip\CheckZip\obj\Debug\CheckZip.csproj.CoreCompileInputs.cache
+D:\C# Programs\CheckZip\CheckZip\obj\Debug\CheckZip.exe
+D:\C# Programs\CheckZip\CheckZip\obj\Debug\CheckZip.pdb
