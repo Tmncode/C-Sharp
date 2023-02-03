@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.10\SalesPersonDemo\bin\Debug\SalesPersonDemo.exe.config
+C:\CSharp\Chapter.10\SalesPersonDemo\bin\Debug\SalesPersonDemo.exe
+C:\CSharp\Chapter.10\SalesPersonDemo\bin\Debug\SalesPersonDemo.pdb
+C:\CSharp\Chapter.10\SalesPersonDemo\obj\Debug\SalesPersonDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.10\SalesPersonDemo\obj\Debug\SalesPersonDemo.exe
+C:\CSharp\Chapter.10\SalesPersonDemo\obj\Debug\SalesPersonDemo.pdb
