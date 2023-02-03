@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.11\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe.config
+C:\CSharp\Chapter.11\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe
+C:\CSharp\Chapter.11\BookExceptionDemo\bin\Debug\BookExceptionDemo.pdb
+C:\CSharp\Chapter.11\BookExceptionDemo\obj\Debug\BookExceptionDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.11\BookExceptionDemo\obj\Debug\BookExceptionDemo.exe
+C:\CSharp\Chapter.11\BookExceptionDemo\obj\Debug\BookExceptionDemo.pdb
