@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.09\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe.config
+C:\CSharp\Chapter.09\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe
+C:\CSharp\Chapter.09\TestClassifiedAd\bin\Debug\TestClassifiedAd.pdb
+C:\CSharp\Chapter.09\TestClassifiedAd\obj\Debug\TestClassifiedAd.csprojAssemblyReference.cache
+C:\CSharp\Chapter.09\TestClassifiedAd\obj\Debug\TestClassifiedAd.exe
+C:\CSharp\Chapter.09\TestClassifiedAd\obj\Debug\TestClassifiedAd.pdb
