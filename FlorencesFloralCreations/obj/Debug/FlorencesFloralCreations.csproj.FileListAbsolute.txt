@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.13\FlorencesFloralCreations\bin\Debug\FlorencesFloralCreations.exe.config
+C:\CSharp\Chapter.13\FlorencesFloralCreations\bin\Debug\FlorencesFloralCreations.exe
+C:\CSharp\Chapter.13\FlorencesFloralCreations\bin\Debug\FlorencesFloralCreations.pdb
+C:\CSharp\Chapter.13\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.Form1.resources
+C:\CSharp\Chapter.13\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.Properties.Resources.resources
+C:\CSharp\Chapter.13\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.csproj.GenerateResource.cache
+C:\CSharp\Chapter.13\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.exe
+C:\CSharp\Chapter.13\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.pdb
