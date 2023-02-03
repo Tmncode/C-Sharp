@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.13\ManyButton\bin\Debug\ManyButton.exe.config
+C:\CSharp\Chapter.13\ManyButton\bin\Debug\ManyButton.exe
+C:\CSharp\Chapter.13\ManyButton\bin\Debug\ManyButton.pdb
+C:\CSharp\Chapter.13\ManyButton\obj\Debug\ManyButton.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\ManyButton\obj\Debug\ManyButton.Form1.resources
+C:\CSharp\Chapter.13\ManyButton\obj\Debug\ManyButton.Properties.Resources.resources
+C:\CSharp\Chapter.13\ManyButton\obj\Debug\ManyButton.csproj.GenerateResource.cache
+C:\CSharp\Chapter.13\ManyButton\obj\Debug\ManyButton.exe
+C:\CSharp\Chapter.13\ManyButton\obj\Debug\ManyButton.pdb
