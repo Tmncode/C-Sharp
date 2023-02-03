@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\DemoVariables3\bin\Debug\netcoreapp2.1\DemoVariables3.deps.json
+C:\CSharp\Chapter.02\DemoVariables3\bin\Debug\netcoreapp2.1\DemoVariables3.runtimeconfig.json
+C:\CSharp\Chapter.02\DemoVariables3\bin\Debug\netcoreapp2.1\DemoVariables3.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\DemoVariables3\bin\Debug\netcoreapp2.1\DemoVariables3.dll
+C:\CSharp\Chapter.02\DemoVariables3\bin\Debug\netcoreapp2.1\DemoVariables3.pdb
+C:\CSharp\Chapter.02\DemoVariables3\obj\Debug\netcoreapp2.1\DemoVariables3.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\DemoVariables3\obj\Debug\netcoreapp2.1\DemoVariables3.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\DemoVariables3\obj\Debug\netcoreapp2.1\DemoVariables3.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\DemoVariables3\obj\Debug\netcoreapp2.1\DemoVariables3.AssemblyInfo.cs
+C:\CSharp\Chapter.02\DemoVariables3\obj\Debug\netcoreapp2.1\DemoVariables3.dll
+C:\CSharp\Chapter.02\DemoVariables3\obj\Debug\netcoreapp2.1\DemoVariables3.pdb
