@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.07\CountVowelsModulrized\bin\Debug\CountVowelsModulrized.exe.config
+C:\CSharp\Chapter.07\CountVowelsModulrized\bin\Debug\CountVowelsModulrized.exe
+C:\CSharp\Chapter.07\CountVowelsModulrized\bin\Debug\CountVowelsModulrized.pdb
+C:\CSharp\Chapter.07\CountVowelsModulrized\obj\Debug\CountVowelsModulrized.csprojAssemblyReference.cache
+C:\CSharp\Chapter.07\CountVowelsModulrized\obj\Debug\CountVowelsModulrized.exe
+C:\CSharp\Chapter.07\CountVowelsModulrized\obj\Debug\CountVowelsModulrized.pdb
