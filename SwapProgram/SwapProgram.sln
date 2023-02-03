@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapProgram", "SwapProgram.csproj", "{877711CD-57AB-4F21-B554-271946497627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877711CD-57AB-4F21-B554-271946497627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877711CD-57AB-4F21-B554-271946497627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877711CD-57AB-4F21-B554-271946497627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877711CD-57AB-4F21-B554-271946497627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA079179-BFCD-4A93-9F9C-448C679522AD}
+	EndGlobalSection
+EndGlobal

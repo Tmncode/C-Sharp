@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.08\SwapProgram\bin\Debug\SwapProgram.exe.config
+C:\CSharp\Chapter.08\SwapProgram\bin\Debug\SwapProgram.exe
+C:\CSharp\Chapter.08\SwapProgram\bin\Debug\SwapProgram.pdb
+C:\CSharp\Chapter.08\SwapProgram\obj\Debug\SwapProgram.csprojAssemblyReference.cache
+C:\CSharp\Chapter.08\SwapProgram\obj\Debug\SwapProgram.exe
+C:\CSharp\Chapter.08\SwapProgram\obj\Debug\SwapProgram.pdb
