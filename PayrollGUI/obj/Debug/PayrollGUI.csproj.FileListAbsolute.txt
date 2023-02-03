@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.03\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+C:\CSharp\Chapter.03\PayrollGUI\bin\Debug\PayrollGUI.exe
+C:\CSharp\Chapter.03\PayrollGUI\bin\Debug\PayrollGUI.pdb
+C:\CSharp\Chapter.03\PayrollGUI\obj\Debug\PayrollGUI.csprojAssemblyReference.cache
+C:\CSharp\Chapter.03\PayrollGUI\obj\Debug\PayrollGUI.payrollForm.resources
+C:\CSharp\Chapter.03\PayrollGUI\obj\Debug\PayrollGUI.Properties.Resources.resources
+C:\CSharp\Chapter.03\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.cache
+C:\CSharp\Chapter.03\PayrollGUI\obj\Debug\PayrollGUI.exe
+C:\CSharp\Chapter.03\PayrollGUI\obj\Debug\PayrollGUI.pdb
