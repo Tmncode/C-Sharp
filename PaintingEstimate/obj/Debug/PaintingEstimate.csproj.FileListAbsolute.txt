@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.07\PaintingEstimate\bin\Debug\PaintingEstimate.exe.config
+C:\CSharp\Chapter.07\PaintingEstimate\bin\Debug\PaintingEstimate.exe
+C:\CSharp\Chapter.07\PaintingEstimate\bin\Debug\PaintingEstimate.pdb
+C:\CSharp\Chapter.07\PaintingEstimate\obj\Debug\PaintingEstimate.csprojAssemblyReference.cache
+C:\CSharp\Chapter.07\PaintingEstimate\obj\Debug\PaintingEstimate.exe
+C:\CSharp\Chapter.07\PaintingEstimate\obj\Debug\PaintingEstimate.pdb
