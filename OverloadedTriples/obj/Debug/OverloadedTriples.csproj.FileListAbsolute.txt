@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.08\OverloadedTriples\bin\Debug\OverloadedTriples.exe.config
+C:\CSharp\Chapter.08\OverloadedTriples\bin\Debug\OverloadedTriples.exe
+C:\CSharp\Chapter.08\OverloadedTriples\bin\Debug\OverloadedTriples.pdb
+C:\CSharp\Chapter.08\OverloadedTriples\obj\Debug\OverloadedTriples.csprojAssemblyReference.cache
+C:\CSharp\Chapter.08\OverloadedTriples\obj\Debug\OverloadedTriples.exe
+C:\CSharp\Chapter.08\OverloadedTriples\obj\Debug\OverloadedTriples.pdb
