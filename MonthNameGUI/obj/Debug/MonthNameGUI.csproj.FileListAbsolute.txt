@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.03\MonthNameGUI\bin\Debug\MonthNameGUI.exe.config
+C:\CSharp\Chapter.03\MonthNameGUI\bin\Debug\MonthNameGUI.exe
+C:\CSharp\Chapter.03\MonthNameGUI\bin\Debug\MonthNameGUI.pdb
+C:\CSharp\Chapter.03\MonthNameGUI\obj\Debug\MonthNameGUI.csprojAssemblyReference.cache
+C:\CSharp\Chapter.03\MonthNameGUI\obj\Debug\MonthNameGUI.MonthsLabel.resources
+C:\CSharp\Chapter.03\MonthNameGUI\obj\Debug\MonthNameGUI.Properties.Resources.resources
+C:\CSharp\Chapter.03\MonthNameGUI\obj\Debug\MonthNameGUI.csproj.GenerateResource.cache
+C:\CSharp\Chapter.03\MonthNameGUI\obj\Debug\MonthNameGUI.exe
+C:\CSharp\Chapter.03\MonthNameGUI\obj\Debug\MonthNameGUI.pdb
