@@ -1,0 +1,7 @@
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\bin\Debug\FindPatientRecords.exe.config
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\bin\Debug\FindPatientRecords.exe
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\bin\Debug\FindPatientRecords.pdb
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.exe
+D:\C#\CSharp.Chapter.14\FindPatientRecords\FindPatientRecords\obj\Debug\FindPatientRecords.pdb
