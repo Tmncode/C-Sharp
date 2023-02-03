@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.09\CreateStudents\bin\Debug\CreateStudents.exe.config
+C:\CSharp\Chapter.09\CreateStudents\bin\Debug\CreateStudents.exe
+C:\CSharp\Chapter.09\CreateStudents\bin\Debug\CreateStudents.pdb
+C:\CSharp\Chapter.09\CreateStudents\obj\Debug\CreateStudents.csprojAssemblyReference.cache
+C:\CSharp\Chapter.09\CreateStudents\obj\Debug\CreateStudents.exe
+C:\CSharp\Chapter.09\CreateStudents\obj\Debug\CreateStudents.pdb
