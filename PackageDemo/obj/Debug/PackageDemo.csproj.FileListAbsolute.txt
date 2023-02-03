@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.10\PackageDemo\bin\Debug\PackageDemo.exe.config
+C:\CSharp\Chapter.10\PackageDemo\bin\Debug\PackageDemo.exe
+C:\CSharp\Chapter.10\PackageDemo\bin\Debug\PackageDemo.pdb
+C:\CSharp\Chapter.10\PackageDemo\obj\Debug\PackageDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.10\PackageDemo\obj\Debug\PackageDemo.exe
+C:\CSharp\Chapter.10\PackageDemo\obj\Debug\PackageDemo.pdb
