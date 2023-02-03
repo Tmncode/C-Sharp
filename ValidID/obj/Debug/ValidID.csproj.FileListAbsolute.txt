@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.05\ValidID\bin\Debug\ValidID.exe.config
+C:\CSharp\Chapter.05\ValidID\bin\Debug\ValidID.exe
+C:\CSharp\Chapter.05\ValidID\bin\Debug\ValidID.pdb
+C:\CSharp\Chapter.05\ValidID\obj\Debug\ValidID.csprojAssemblyReference.cache
+C:\CSharp\Chapter.05\ValidID\obj\Debug\ValidID.exe
+C:\CSharp\Chapter.05\ValidID\obj\Debug\ValidID.pdb
