@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.04\Admission Office\bin\Debug\Admission Office.exe.config
+C:\CSharp\Chapter.04\Admission Office\bin\Debug\Admission Office.exe
+C:\CSharp\Chapter.04\Admission Office\bin\Debug\Admission Office.pdb
+C:\CSharp\Chapter.04\Admission Office\obj\Debug\Admission Office.csprojAssemblyReference.cache
+C:\CSharp\Chapter.04\Admission Office\obj\Debug\Admission_Office.Admission.resources
+C:\CSharp\Chapter.04\Admission Office\obj\Debug\Admission_Office.Properties.Resources.resources
+C:\CSharp\Chapter.04\Admission Office\obj\Debug\Admission Office.csproj.GenerateResource.cache
+C:\CSharp\Chapter.04\Admission Office\obj\Debug\Admission Office.exe
+C:\CSharp\Chapter.04\Admission Office\obj\Debug\Admission Office.pdb
