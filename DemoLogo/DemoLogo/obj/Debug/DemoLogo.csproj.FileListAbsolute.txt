@@ -1,0 +1,6 @@
+C:\C#\DemoLogo\DemoLogo\bin\Debug\DemoLogo.exe.config
+C:\C#\DemoLogo\DemoLogo\bin\Debug\DemoLogo.exe
+C:\C#\DemoLogo\DemoLogo\bin\Debug\DemoLogo.pdb
+C:\C#\DemoLogo\DemoLogo\obj\Debug\DemoLogo.csprojAssemblyReference.cache
+C:\C#\DemoLogo\DemoLogo\obj\Debug\DemoLogo.exe
+C:\C#\DemoLogo\DemoLogo\obj\Debug\DemoLogo.pdb
