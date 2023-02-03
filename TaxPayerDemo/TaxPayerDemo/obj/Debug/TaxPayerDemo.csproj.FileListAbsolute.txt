@@ -1,0 +1,6 @@
+C:\C#\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.exe.config
+C:\C#\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.exe
+C:\C#\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.pdb
+C:\C#\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.csprojAssemblyReference.cache
+C:\C#\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.exe
+C:\C#\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.pdb
