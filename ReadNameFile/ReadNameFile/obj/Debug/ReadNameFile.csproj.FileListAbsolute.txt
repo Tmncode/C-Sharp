@@ -1,0 +1,7 @@
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\bin\Debug\ReadNameFile.exe.config
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\bin\Debug\ReadNameFile.exe
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\bin\Debug\ReadNameFile.pdb
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.exe
+D:\C#\CSharp.Chapter.14\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.pdb
