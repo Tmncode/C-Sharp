@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.05\TippingTable\bin\Debug\TippingTable.exe.config
+C:\CSharp\Chapter.05\TippingTable\bin\Debug\TippingTable.exe
+C:\CSharp\Chapter.05\TippingTable\bin\Debug\TippingTable.pdb
+C:\CSharp\Chapter.05\TippingTable\obj\Debug\TippingTable.csprojAssemblyReference.cache
+C:\CSharp\Chapter.05\TippingTable\obj\Debug\TippingTable.exe
+C:\CSharp\Chapter.05\TippingTable\obj\Debug\TippingTable.pdb
