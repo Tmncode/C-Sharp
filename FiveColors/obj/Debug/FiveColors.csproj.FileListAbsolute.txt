@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.12\FiveColors\bin\Debug\FiveColors.exe.config
+C:\CSharp\Chapter.12\FiveColors\bin\Debug\FiveColors.exe
+C:\CSharp\Chapter.12\FiveColors\bin\Debug\FiveColors.pdb
+C:\CSharp\Chapter.12\FiveColors\obj\Debug\FiveColors.csprojAssemblyReference.cache
+C:\CSharp\Chapter.12\FiveColors\obj\Debug\FiveColors.changeColorForm.resources
+C:\CSharp\Chapter.12\FiveColors\obj\Debug\FiveColors.Properties.Resources.resources
+C:\CSharp\Chapter.12\FiveColors\obj\Debug\FiveColors.csproj.GenerateResource.cache
+C:\CSharp\Chapter.12\FiveColors\obj\Debug\FiveColors.exe
+C:\CSharp\Chapter.12\FiveColors\obj\Debug\FiveColors.pdb
