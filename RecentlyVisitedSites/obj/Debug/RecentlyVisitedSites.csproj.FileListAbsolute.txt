@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.Properties.Resources.resources
+C:\CSharp\Chapter.13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csproj.GenerateResource.cache
+C:\CSharp\Chapter.13\RecentlyVisitedSites\bin\Debug\RecentlyVisitedSites.exe.config
+C:\CSharp\Chapter.13\RecentlyVisitedSites\bin\Debug\RecentlyVisitedSites.exe
+C:\CSharp\Chapter.13\RecentlyVisitedSites\bin\Debug\RecentlyVisitedSites.pdb
+C:\CSharp\Chapter.13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.exe
+C:\CSharp\Chapter.13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.pdb
+C:\CSharp\Chapter.13\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.RecentlyVisitedSites.resources
