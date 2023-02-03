@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.07\SalesLetter\bin\Debug\SalesLetter.exe.config
+C:\CSharp\Chapter.07\SalesLetter\bin\Debug\SalesLetter.exe
+C:\CSharp\Chapter.07\SalesLetter\bin\Debug\SalesLetter.pdb
+C:\CSharp\Chapter.07\SalesLetter\obj\Debug\SalesLetter.csprojAssemblyReference.cache
+C:\CSharp\Chapter.07\SalesLetter\obj\Debug\SalesLetter.exe
+C:\CSharp\Chapter.07\SalesLetter\obj\Debug\SalesLetter.pdb
