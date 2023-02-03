@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\InteractiveAddition\bin\Debug\netcoreapp2.1\InteractiveAddition.deps.json
+C:\CSharp\Chapter.02\InteractiveAddition\bin\Debug\netcoreapp2.1\InteractiveAddition.runtimeconfig.json
+C:\CSharp\Chapter.02\InteractiveAddition\bin\Debug\netcoreapp2.1\InteractiveAddition.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\InteractiveAddition\bin\Debug\netcoreapp2.1\InteractiveAddition.dll
+C:\CSharp\Chapter.02\InteractiveAddition\bin\Debug\netcoreapp2.1\InteractiveAddition.pdb
+C:\CSharp\Chapter.02\InteractiveAddition\obj\Debug\netcoreapp2.1\InteractiveAddition.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\InteractiveAddition\obj\Debug\netcoreapp2.1\InteractiveAddition.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\InteractiveAddition\obj\Debug\netcoreapp2.1\InteractiveAddition.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\InteractiveAddition\obj\Debug\netcoreapp2.1\InteractiveAddition.AssemblyInfo.cs
+C:\CSharp\Chapter.02\InteractiveAddition\obj\Debug\netcoreapp2.1\InteractiveAddition.dll
+C:\CSharp\Chapter.02\InteractiveAddition\obj\Debug\netcoreapp2.1\InteractiveAddition.pdb
