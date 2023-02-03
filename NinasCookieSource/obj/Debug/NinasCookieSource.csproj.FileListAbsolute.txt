@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.12\NinasCookieSource\bin\Debug\NinasCookieSource.exe.config
+C:\CSharp\Chapter.12\NinasCookieSource\bin\Debug\NinasCookieSource.exe
+C:\CSharp\Chapter.12\NinasCookieSource\bin\Debug\NinasCookieSource.pdb
+C:\CSharp\Chapter.12\NinasCookieSource\obj\Debug\NinasCookieSource.csprojAssemblyReference.cache
+C:\CSharp\Chapter.12\NinasCookieSource\obj\Debug\NinasCookieSource.Form1.resources
+C:\CSharp\Chapter.12\NinasCookieSource\obj\Debug\NinasCookieSource.Properties.Resources.resources
+C:\CSharp\Chapter.12\NinasCookieSource\obj\Debug\NinasCookieSource.csproj.GenerateResource.cache
+C:\CSharp\Chapter.12\NinasCookieSource\obj\Debug\NinasCookieSource.exe
+C:\CSharp\Chapter.12\NinasCookieSource\obj\Debug\NinasCookieSource.pdb
