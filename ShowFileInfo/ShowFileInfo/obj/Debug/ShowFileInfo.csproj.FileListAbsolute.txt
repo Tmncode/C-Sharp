@@ -1,0 +1,10 @@
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\bin\Debug\ShowFileInfo.exe.config
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\bin\Debug\ShowFileInfo.exe
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\bin\Debug\ShowFileInfo.pdb
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.ShowFileInfo.resources
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.Properties.Resources.resources
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.csproj.GenerateResource.cache
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.exe
+D:\C#\CSharp.Chapter.14\ShowFileInfo\ShowFileInfo\obj\Debug\ShowFileInfo.pdb
