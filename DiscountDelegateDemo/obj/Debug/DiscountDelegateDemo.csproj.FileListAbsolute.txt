@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.13\DiscountDelegateDemo\obj\Debug\DiscountDelegateDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\DiscountDelegateDemo\bin\Debug\DiscountDelegateDemo.exe.config
+C:\CSharp\Chapter.13\DiscountDelegateDemo\bin\Debug\DiscountDelegateDemo.exe
+C:\CSharp\Chapter.13\DiscountDelegateDemo\bin\Debug\DiscountDelegateDemo.pdb
+C:\CSharp\Chapter.13\DiscountDelegateDemo\obj\Debug\DiscountDelegateDemo.exe
+C:\CSharp\Chapter.13\DiscountDelegateDemo\obj\Debug\DiscountDelegateDemo.pdb
