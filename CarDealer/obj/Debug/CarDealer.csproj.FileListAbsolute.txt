@@ -1,0 +1,12 @@
+C:\CSharp\Chapter.12\CarDealer\bin\Debug\CarDealer.exe.config
+C:\CSharp\Chapter.12\CarDealer\bin\Debug\CarDealer.exe
+C:\CSharp\Chapter.12\CarDealer\bin\Debug\CarDealer.pdb
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.csprojAssemblyReference.cache
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.CarDealerForm.resources
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.tundraInfoForm.resources
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.FocusInfoForm.resources
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.CamryInfoForm.resources
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.Properties.Resources.resources
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.csproj.GenerateResource.cache
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.exe
+C:\CSharp\Chapter.12\CarDealer\obj\Debug\CarDealer.pdb
