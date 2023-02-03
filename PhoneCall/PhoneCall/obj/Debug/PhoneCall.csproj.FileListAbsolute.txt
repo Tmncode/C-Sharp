@@ -1,0 +1,6 @@
+C:\C#\PhoneCall\PhoneCall\obj\Debug\PhoneCall.csprojAssemblyReference.cache
+C:\C#\PhoneCall\PhoneCall\bin\Debug\PhoneCall.exe.config
+C:\C#\PhoneCall\PhoneCall\bin\Debug\PhoneCall.exe
+C:\C#\PhoneCall\PhoneCall\bin\Debug\PhoneCall.pdb
+C:\C#\PhoneCall\PhoneCall\obj\Debug\PhoneCall.exe
+C:\C#\PhoneCall\PhoneCall\obj\Debug\PhoneCall.pdb
