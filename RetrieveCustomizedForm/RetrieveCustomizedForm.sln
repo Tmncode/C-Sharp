@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrieveCustomizedForm", "RetrieveCustomizedForm\RetrieveCustomizedForm.csproj", "{EADA276C-0DF6-4A6D-855D-F74E98A244D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADA276C-0DF6-4A6D-855D-F74E98A244D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADA276C-0DF6-4A6D-855D-F74E98A244D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADA276C-0DF6-4A6D-855D-F74E98A244D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADA276C-0DF6-4A6D-855D-F74E98A244D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A0EFCF-3EBA-4E47-9832-72CF3C91B955}
+	EndGlobalSection
+EndGlobal

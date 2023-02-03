@@ -1,0 +1,10 @@
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.exe.config
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.exe
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.pdb
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.Form1.resources
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.Properties.Resources.resources
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.csproj.GenerateResource.cache
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.exe
+D:\C#\CSharp.Chapter.14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.pdb
