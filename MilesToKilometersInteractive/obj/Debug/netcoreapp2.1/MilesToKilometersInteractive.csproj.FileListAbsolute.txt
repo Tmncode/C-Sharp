@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\bin\Debug\netcoreapp2.1\MilesToKilometersInteractive.deps.json
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\bin\Debug\netcoreapp2.1\MilesToKilometersInteractive.runtimeconfig.json
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\bin\Debug\netcoreapp2.1\MilesToKilometersInteractive.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\bin\Debug\netcoreapp2.1\MilesToKilometersInteractive.dll
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\bin\Debug\netcoreapp2.1\MilesToKilometersInteractive.pdb
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\obj\Debug\netcoreapp2.1\MilesToKilometersInteractive.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\obj\Debug\netcoreapp2.1\MilesToKilometersInteractive.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\obj\Debug\netcoreapp2.1\MilesToKilometersInteractive.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\obj\Debug\netcoreapp2.1\MilesToKilometersInteractive.AssemblyInfo.cs
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\obj\Debug\netcoreapp2.1\MilesToKilometersInteractive.dll
+C:\CSharp\Chapter.02\MilesToKilometersInteractive\obj\Debug\netcoreapp2.1\MilesToKilometersInteractive.pdb
