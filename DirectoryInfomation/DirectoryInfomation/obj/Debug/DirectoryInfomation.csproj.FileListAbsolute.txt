@@ -1,0 +1,7 @@
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\bin\Debug\DirectoryInfomation.exe.config
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\bin\Debug\DirectoryInfomation.exe
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\bin\Debug\DirectoryInfomation.pdb
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\obj\Debug\DirectoryInfomation.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\obj\Debug\DirectoryInfomation.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\obj\Debug\DirectoryInfomation.exe
+D:\C#\CSharp.Chapter.14\DirectoryInfomation\DirectoryInfomation\obj\Debug\DirectoryInfomation.pdb
