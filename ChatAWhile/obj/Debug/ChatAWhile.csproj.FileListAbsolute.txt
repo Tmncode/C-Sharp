@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.06\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+C:\CSharp\Chapter.06\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\CSharp\Chapter.06\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\CSharp\Chapter.06\ChatAWhile\obj\Debug\ChatAWhile.csprojAssemblyReference.cache
+C:\CSharp\Chapter.06\ChatAWhile\obj\Debug\ChatAWhile.exe
+C:\CSharp\Chapter.06\ChatAWhile\obj\Debug\ChatAWhile.pdb
