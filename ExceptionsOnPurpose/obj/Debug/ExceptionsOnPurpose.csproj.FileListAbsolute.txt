@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.11\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.exe.config
+C:\CSharp\Chapter.11\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.exe
+C:\CSharp\Chapter.11\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.pdb
+C:\CSharp\Chapter.11\ExceptionsOnPurpose\obj\Debug\ExceptionsOnPurpose.csprojAssemblyReference.cache
+C:\CSharp\Chapter.11\ExceptionsOnPurpose\obj\Debug\ExceptionsOnPurpose.exe
+C:\CSharp\Chapter.11\ExceptionsOnPurpose\obj\Debug\ExceptionsOnPurpose.pdb
