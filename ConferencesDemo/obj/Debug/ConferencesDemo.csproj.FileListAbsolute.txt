@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.09\ConferencesDemo\bin\Debug\ConferencesDemo.exe.config
+C:\CSharp\Chapter.09\ConferencesDemo\bin\Debug\ConferencesDemo.exe
+C:\CSharp\Chapter.09\ConferencesDemo\bin\Debug\ConferencesDemo.pdb
+C:\CSharp\Chapter.09\ConferencesDemo\obj\Debug\ConferencesDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.09\ConferencesDemo\obj\Debug\ConferencesDemo.exe
+C:\CSharp\Chapter.09\ConferencesDemo\obj\Debug\ConferencesDemo.pdb
