@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.08\BounsCalculation\bin\Debug\BounsCalculation.exe.config
+C:\CSharp\Chapter.08\BounsCalculation\bin\Debug\BounsCalculation.exe
+C:\CSharp\Chapter.08\BounsCalculation\bin\Debug\BounsCalculation.pdb
+C:\CSharp\Chapter.08\BounsCalculation\obj\Debug\BounsCalculation.csprojAssemblyReference.cache
+C:\CSharp\Chapter.08\BounsCalculation\obj\Debug\BounsCalculation.exe
+C:\CSharp\Chapter.08\BounsCalculation\obj\Debug\BounsCalculation.pdb
