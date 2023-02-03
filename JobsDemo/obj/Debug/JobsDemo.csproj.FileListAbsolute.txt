@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.09\JobsDemo\bin\Debug\JobsDemo.exe.config
+C:\CSharp\Chapter.09\JobsDemo\bin\Debug\JobsDemo.exe
+C:\CSharp\Chapter.09\JobsDemo\bin\Debug\JobsDemo.pdb
+C:\CSharp\Chapter.09\JobsDemo\obj\Debug\JobsDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.09\JobsDemo\obj\Debug\JobsDemo.exe
+C:\CSharp\Chapter.09\JobsDemo\obj\Debug\JobsDemo.pdb
