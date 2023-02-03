@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.06\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+C:\CSharp\Chapter.06\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+C:\CSharp\Chapter.06\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+C:\CSharp\Chapter.06\DeliveryCharges\obj\Debug\DeliveryCharges.csprojAssemblyReference.cache
+C:\CSharp\Chapter.06\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+C:\CSharp\Chapter.06\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
