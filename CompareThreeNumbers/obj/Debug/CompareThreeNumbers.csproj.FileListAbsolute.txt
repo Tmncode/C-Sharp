@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.04\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.csprojAssemblyReference.cache
+C:\CSharp\Chapter.04\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
+C:\CSharp\Chapter.04\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe
+C:\CSharp\Chapter.04\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.pdb
+C:\CSharp\Chapter.04\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.exe
+C:\CSharp\Chapter.04\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.pdb
