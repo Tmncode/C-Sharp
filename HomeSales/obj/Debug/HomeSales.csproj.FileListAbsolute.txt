@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.05\HomeSales\bin\Debug\HomeSales.exe.config
+C:\CSharp\Chapter.05\HomeSales\bin\Debug\HomeSales.exe
+C:\CSharp\Chapter.05\HomeSales\bin\Debug\HomeSales.pdb
+C:\CSharp\Chapter.05\HomeSales\obj\Debug\HomeSales.csprojAssemblyReference.cache
+C:\CSharp\Chapter.05\HomeSales\obj\Debug\HomeSales.exe
+C:\CSharp\Chapter.05\HomeSales\obj\Debug\HomeSales.pdb
