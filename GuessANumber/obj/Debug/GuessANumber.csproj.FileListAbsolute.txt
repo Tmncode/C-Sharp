@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.13\GuessANumber\bin\Debug\GuessANumber.exe.config
+C:\CSharp\Chapter.13\GuessANumber\bin\Debug\GuessANumber.exe
+C:\CSharp\Chapter.13\GuessANumber\bin\Debug\GuessANumber.pdb
+C:\CSharp\Chapter.13\GuessANumber\obj\Debug\GuessANumber.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\GuessANumber\obj\Debug\GuessANumber.Properties.Resources.resources
+C:\CSharp\Chapter.13\GuessANumber\obj\Debug\GuessANumber.csproj.GenerateResource.cache
+C:\CSharp\Chapter.13\GuessANumber\obj\Debug\GuessANumber.exe
+C:\CSharp\Chapter.13\GuessANumber\obj\Debug\GuessANumber.pdb
+C:\CSharp\Chapter.13\GuessANumber\obj\Debug\GuessANumber.GuessANumber.resources
