@@ -1,0 +1,10 @@
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\bin\Debug\EnterInvoice.exe.config
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\bin\Debug\EnterInvoice.exe
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\bin\Debug\EnterInvoice.pdb
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.frmEnterInvoices.resources
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.Properties.Resources.resources
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.csproj.GenerateResource.cache
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.exe
+D:\C#\CSharp.Chapter.14\EnterInvoice\EnterInvoice\obj\Debug\EnterInvoice.pdb
