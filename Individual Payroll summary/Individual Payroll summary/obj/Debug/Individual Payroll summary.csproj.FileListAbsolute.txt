@@ -1,0 +1,9 @@
+C:\C#\Individual Payroll summary\Individual Payroll summary\bin\Debug\Individual Payroll summary.exe.config
+C:\C#\Individual Payroll summary\Individual Payroll summary\bin\Debug\Individual Payroll summary.exe
+C:\C#\Individual Payroll summary\Individual Payroll summary\bin\Debug\Individual Payroll summary.pdb
+C:\C#\Individual Payroll summary\Individual Payroll summary\obj\Debug\Individual Payroll summary.csprojAssemblyReference.cache
+C:\C#\Individual Payroll summary\Individual Payroll summary\obj\Debug\Individual_Payroll_summary.formPayroll.resources
+C:\C#\Individual Payroll summary\Individual Payroll summary\obj\Debug\Individual_Payroll_summary.Properties.Resources.resources
+C:\C#\Individual Payroll summary\Individual Payroll summary\obj\Debug\Individual Payroll summary.csproj.GenerateResource.cache
+C:\C#\Individual Payroll summary\Individual Payroll summary\obj\Debug\Individual Payroll summary.exe
+C:\C#\Individual Payroll summary\Individual Payroll summary\obj\Debug\Individual Payroll summary.pdb
