@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.04\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
+C:\CSharp\Chapter.04\DemoORAndAND\bin\Debug\DemoORAndAND.exe
+C:\CSharp\Chapter.04\DemoORAndAND\bin\Debug\DemoORAndAND.pdb
+C:\CSharp\Chapter.04\DemoORAndAND\obj\Debug\DemoORAndAND.csprojAssemblyReference.cache
+C:\CSharp\Chapter.04\DemoORAndAND\obj\Debug\DemoORAndAND.exe
+C:\CSharp\Chapter.04\DemoORAndAND\obj\Debug\DemoORAndAND.pdb
