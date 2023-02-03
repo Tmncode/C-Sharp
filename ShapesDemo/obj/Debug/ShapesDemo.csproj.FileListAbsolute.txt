@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.10\ShapesDemo\bin\Debug\ShapesDemo.exe.config
+C:\CSharp\Chapter.10\ShapesDemo\bin\Debug\ShapesDemo.exe
+C:\CSharp\Chapter.10\ShapesDemo\bin\Debug\ShapesDemo.pdb
+C:\CSharp\Chapter.10\ShapesDemo\obj\Debug\ShapesDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.10\ShapesDemo\obj\Debug\ShapesDemo.exe
+C:\CSharp\Chapter.10\ShapesDemo\obj\Debug\ShapesDemo.pdb
