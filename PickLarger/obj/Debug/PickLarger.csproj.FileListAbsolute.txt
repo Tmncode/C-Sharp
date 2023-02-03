@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.13\PickLarger\bin\Debug\PickLarger.exe.config
+C:\CSharp\Chapter.13\PickLarger\bin\Debug\PickLarger.exe
+C:\CSharp\Chapter.13\PickLarger\bin\Debug\PickLarger.pdb
+C:\CSharp\Chapter.13\PickLarger\obj\Debug\PickLarger.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\PickLarger\obj\Debug\PickLarger.PickLarger.resources
+C:\CSharp\Chapter.13\PickLarger\obj\Debug\PickLarger.Properties.Resources.resources
+C:\CSharp\Chapter.13\PickLarger\obj\Debug\PickLarger.csproj.GenerateResource.cache
+C:\CSharp\Chapter.13\PickLarger\obj\Debug\PickLarger.exe
+C:\CSharp\Chapter.13\PickLarger\obj\Debug\PickLarger.pdb
