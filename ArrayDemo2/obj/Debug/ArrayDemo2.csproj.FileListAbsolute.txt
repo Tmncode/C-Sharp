@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.06\ArrayDemo2\bin\Debug\ArrayDemo2.exe.config
+C:\CSharp\Chapter.06\ArrayDemo2\bin\Debug\ArrayDemo2.exe
+C:\CSharp\Chapter.06\ArrayDemo2\bin\Debug\ArrayDemo2.pdb
+C:\CSharp\Chapter.06\ArrayDemo2\obj\Debug\ArrayDemo2.csprojAssemblyReference.cache
+C:\CSharp\Chapter.06\ArrayDemo2\obj\Debug\ArrayDemo2.exe
+C:\CSharp\Chapter.06\ArrayDemo2\obj\Debug\ArrayDemo2.pdb
