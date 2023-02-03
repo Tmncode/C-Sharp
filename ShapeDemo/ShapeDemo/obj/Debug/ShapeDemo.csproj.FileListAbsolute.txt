@@ -1,0 +1,6 @@
+C:\C#\ShapeDemo\ShapeDemo\bin\Debug\ShapeDemo.exe.config
+C:\C#\ShapeDemo\ShapeDemo\bin\Debug\ShapeDemo.exe
+C:\C#\ShapeDemo\ShapeDemo\bin\Debug\ShapeDemo.pdb
+C:\C#\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.csprojAssemblyReference.cache
+C:\C#\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.exe
+C:\C#\ShapeDemo\ShapeDemo\obj\Debug\ShapeDemo.pdb
