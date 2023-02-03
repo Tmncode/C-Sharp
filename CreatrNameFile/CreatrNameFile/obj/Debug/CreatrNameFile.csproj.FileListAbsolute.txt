@@ -1,0 +1,7 @@
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\bin\Debug\CreatrNameFile.exe.config
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\bin\Debug\CreatrNameFile.exe
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\bin\Debug\CreatrNameFile.pdb
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\obj\Debug\CreatrNameFile.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\obj\Debug\CreatrNameFile.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\obj\Debug\CreatrNameFile.exe
+D:\C#\CSharp.Chapter.14\CreatrNameFile\CreatrNameFile\obj\Debug\CreatrNameFile.pdb
