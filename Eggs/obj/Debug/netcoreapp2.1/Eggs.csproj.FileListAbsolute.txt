@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\Eggs\bin\Debug\netcoreapp2.1\Eggs.deps.json
+C:\CSharp\Chapter.02\Eggs\bin\Debug\netcoreapp2.1\Eggs.runtimeconfig.json
+C:\CSharp\Chapter.02\Eggs\bin\Debug\netcoreapp2.1\Eggs.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\Eggs\bin\Debug\netcoreapp2.1\Eggs.dll
+C:\CSharp\Chapter.02\Eggs\bin\Debug\netcoreapp2.1\Eggs.pdb
+C:\CSharp\Chapter.02\Eggs\obj\Debug\netcoreapp2.1\Eggs.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\Eggs\obj\Debug\netcoreapp2.1\Eggs.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\Eggs\obj\Debug\netcoreapp2.1\Eggs.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\Eggs\obj\Debug\netcoreapp2.1\Eggs.AssemblyInfo.cs
+C:\CSharp\Chapter.02\Eggs\obj\Debug\netcoreapp2.1\Eggs.dll
+C:\CSharp\Chapter.02\Eggs\obj\Debug\netcoreapp2.1\Eggs.pdb
