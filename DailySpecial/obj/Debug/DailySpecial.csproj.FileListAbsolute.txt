@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.04\DailySpecial\obj\Debug\DailySpecial.csprojAssemblyReference.cache
+C:\CSharp\Chapter.04\DailySpecial\obj\Debug\DailySpecial.Form1.resources
+C:\CSharp\Chapter.04\DailySpecial\obj\Debug\DailySpecial.Properties.Resources.resources
+C:\CSharp\Chapter.04\DailySpecial\obj\Debug\DailySpecial.csproj.GenerateResource.cache
+C:\CSharp\Chapter.04\DailySpecial\bin\Debug\DailySpecial.exe.config
+C:\CSharp\Chapter.04\DailySpecial\bin\Debug\DailySpecial.exe
+C:\CSharp\Chapter.04\DailySpecial\bin\Debug\DailySpecial.pdb
+C:\CSharp\Chapter.04\DailySpecial\obj\Debug\DailySpecial.exe
+C:\CSharp\Chapter.04\DailySpecial\obj\Debug\DailySpecial.pdb
