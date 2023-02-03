@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.10\PhotoDemo\bin\Debug\PhotoDemo.exe.config
+C:\CSharp\Chapter.10\PhotoDemo\bin\Debug\PhotoDemo.exe
+C:\CSharp\Chapter.10\PhotoDemo\bin\Debug\PhotoDemo.pdb
+C:\CSharp\Chapter.10\PhotoDemo\obj\Debug\PhotoDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.10\PhotoDemo\obj\Debug\PhotoDemo.exe
+C:\CSharp\Chapter.10\PhotoDemo\obj\Debug\PhotoDemo.pdb
