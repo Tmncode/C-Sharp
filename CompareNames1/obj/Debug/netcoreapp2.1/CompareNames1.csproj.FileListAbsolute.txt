@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\CompareNames1\bin\Debug\netcoreapp2.1\CompareNames1.deps.json
+C:\CSharp\Chapter.02\CompareNames1\bin\Debug\netcoreapp2.1\CompareNames1.runtimeconfig.json
+C:\CSharp\Chapter.02\CompareNames1\bin\Debug\netcoreapp2.1\CompareNames1.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\CompareNames1\bin\Debug\netcoreapp2.1\CompareNames1.dll
+C:\CSharp\Chapter.02\CompareNames1\bin\Debug\netcoreapp2.1\CompareNames1.pdb
+C:\CSharp\Chapter.02\CompareNames1\obj\Debug\netcoreapp2.1\CompareNames1.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\CompareNames1\obj\Debug\netcoreapp2.1\CompareNames1.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\CompareNames1\obj\Debug\netcoreapp2.1\CompareNames1.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\CompareNames1\obj\Debug\netcoreapp2.1\CompareNames1.AssemblyInfo.cs
+C:\CSharp\Chapter.02\CompareNames1\obj\Debug\netcoreapp2.1\CompareNames1.dll
+C:\CSharp\Chapter.02\CompareNames1\obj\Debug\netcoreapp2.1\CompareNames1.pdb
