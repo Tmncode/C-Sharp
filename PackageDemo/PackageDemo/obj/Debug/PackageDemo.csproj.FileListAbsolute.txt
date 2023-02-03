@@ -1,0 +1,6 @@
+C:\C#\PackageDemo\PackageDemo\bin\Debug\PackageDemo.exe.config
+C:\C#\PackageDemo\PackageDemo\bin\Debug\PackageDemo.exe
+C:\C#\PackageDemo\PackageDemo\bin\Debug\PackageDemo.pdb
+C:\C#\PackageDemo\PackageDemo\obj\Debug\PackageDemo.csprojAssemblyReference.cache
+C:\C#\PackageDemo\PackageDemo\obj\Debug\PackageDemo.exe
+C:\C#\PackageDemo\PackageDemo\obj\Debug\PackageDemo.pdb
