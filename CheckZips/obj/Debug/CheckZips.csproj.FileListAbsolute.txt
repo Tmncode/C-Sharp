@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.06\CheckZips\bin\Debug\CheckZips.exe.config
+C:\CSharp\Chapter.06\CheckZips\bin\Debug\CheckZips.exe
+C:\CSharp\Chapter.06\CheckZips\bin\Debug\CheckZips.pdb
+C:\CSharp\Chapter.06\CheckZips\obj\Debug\CheckZips.csprojAssemblyReference.cache
+C:\CSharp\Chapter.06\CheckZips\obj\Debug\CheckZips.exe
+C:\CSharp\Chapter.06\CheckZips\obj\Debug\CheckZips.pdb
