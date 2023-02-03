@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\DemoEscapeSequences\bin\Debug\netcoreapp2.1\DemoEscapeSequences.deps.json
+C:\CSharp\Chapter.02\DemoEscapeSequences\bin\Debug\netcoreapp2.1\DemoEscapeSequences.runtimeconfig.json
+C:\CSharp\Chapter.02\DemoEscapeSequences\bin\Debug\netcoreapp2.1\DemoEscapeSequences.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\DemoEscapeSequences\bin\Debug\netcoreapp2.1\DemoEscapeSequences.dll
+C:\CSharp\Chapter.02\DemoEscapeSequences\bin\Debug\netcoreapp2.1\DemoEscapeSequences.pdb
+C:\CSharp\Chapter.02\DemoEscapeSequences\obj\Debug\netcoreapp2.1\DemoEscapeSequences.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\DemoEscapeSequences\obj\Debug\netcoreapp2.1\DemoEscapeSequences.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\DemoEscapeSequences\obj\Debug\netcoreapp2.1\DemoEscapeSequences.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\DemoEscapeSequences\obj\Debug\netcoreapp2.1\DemoEscapeSequences.AssemblyInfo.cs
+C:\CSharp\Chapter.02\DemoEscapeSequences\obj\Debug\netcoreapp2.1\DemoEscapeSequences.dll
+C:\CSharp\Chapter.02\DemoEscapeSequences\obj\Debug\netcoreapp2.1\DemoEscapeSequences.pdb
