@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.08\Desks2\bin\Debug\Desks2.exe.config
+C:\CSharp\Chapter.08\Desks2\bin\Debug\Desks2.exe
+C:\CSharp\Chapter.08\Desks2\bin\Debug\Desks2.pdb
+C:\CSharp\Chapter.08\Desks2\obj\Debug\Desks2.csprojAssemblyReference.cache
+C:\CSharp\Chapter.08\Desks2\obj\Debug\Desks2.exe
+C:\CSharp\Chapter.08\Desks2\obj\Debug\Desks2.pdb
