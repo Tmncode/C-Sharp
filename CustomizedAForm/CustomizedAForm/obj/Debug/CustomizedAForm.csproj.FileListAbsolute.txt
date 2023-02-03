@@ -1,0 +1,10 @@
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\bin\Debug\CustomizedAForm.exe.config
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\bin\Debug\CustomizedAForm.exe
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\bin\Debug\CustomizedAForm.pdb
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.csprojAssemblyReference.cache
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.Form1.resources
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.Properties.Resources.resources
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.csproj.GenerateResource.cache
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.csproj.CoreCompileInputs.cache
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.exe
+D:\C#\CSharp.Chapter.14\CustomizedAForm\CustomizedAForm\obj\Debug\CustomizedAForm.pdb
