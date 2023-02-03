@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.13\WordsOfWisdom\bin\Debug\WordsOfWisdom.exe.config
+C:\CSharp\Chapter.13\WordsOfWisdom\bin\Debug\WordsOfWisdom.exe
+C:\CSharp\Chapter.13\WordsOfWisdom\bin\Debug\WordsOfWisdom.pdb
+C:\CSharp\Chapter.13\WordsOfWisdom\obj\Debug\WordsOfWisdom.csprojAssemblyReference.cache
+C:\CSharp\Chapter.13\WordsOfWisdom\obj\Debug\WordsOfWisdom.QuoteForm.resources
+C:\CSharp\Chapter.13\WordsOfWisdom\obj\Debug\WordsOfWisdom.Properties.Resources.resources
+C:\CSharp\Chapter.13\WordsOfWisdom\obj\Debug\WordsOfWisdom.csproj.GenerateResource.cache
+C:\CSharp\Chapter.13\WordsOfWisdom\obj\Debug\WordsOfWisdom.exe
+C:\CSharp\Chapter.13\WordsOfWisdom\obj\Debug\WordsOfWisdom.pdb
