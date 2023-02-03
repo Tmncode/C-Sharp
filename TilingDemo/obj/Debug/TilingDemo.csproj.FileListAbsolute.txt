@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.09\TilingDemo\bin\Debug\TilingDemo.exe.config
+C:\CSharp\Chapter.09\TilingDemo\bin\Debug\TilingDemo.exe
+C:\CSharp\Chapter.09\TilingDemo\bin\Debug\TilingDemo.pdb
+C:\CSharp\Chapter.09\TilingDemo\obj\Debug\TilingDemo.csprojAssemblyReference.cache
+C:\CSharp\Chapter.09\TilingDemo\obj\Debug\TilingDemo.exe
+C:\CSharp\Chapter.09\TilingDemo\obj\Debug\TilingDemo.pdb
