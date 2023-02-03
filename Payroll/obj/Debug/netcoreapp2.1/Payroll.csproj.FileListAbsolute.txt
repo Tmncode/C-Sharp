@@ -1,0 +1,11 @@
+C:\CSharp\Chapter.02\Payroll\bin\Debug\netcoreapp2.1\Payroll.deps.json
+C:\CSharp\Chapter.02\Payroll\bin\Debug\netcoreapp2.1\Payroll.runtimeconfig.json
+C:\CSharp\Chapter.02\Payroll\bin\Debug\netcoreapp2.1\Payroll.runtimeconfig.dev.json
+C:\CSharp\Chapter.02\Payroll\bin\Debug\netcoreapp2.1\Payroll.dll
+C:\CSharp\Chapter.02\Payroll\bin\Debug\netcoreapp2.1\Payroll.pdb
+C:\CSharp\Chapter.02\Payroll\obj\Debug\netcoreapp2.1\Payroll.csprojAssemblyReference.cache
+C:\CSharp\Chapter.02\Payroll\obj\Debug\netcoreapp2.1\Payroll.csproj.CoreCompileInputs.cache
+C:\CSharp\Chapter.02\Payroll\obj\Debug\netcoreapp2.1\Payroll.AssemblyInfoInputs.cache
+C:\CSharp\Chapter.02\Payroll\obj\Debug\netcoreapp2.1\Payroll.AssemblyInfo.cs
+C:\CSharp\Chapter.02\Payroll\obj\Debug\netcoreapp2.1\Payroll.dll
+C:\CSharp\Chapter.02\Payroll\obj\Debug\netcoreapp2.1\Payroll.pdb
