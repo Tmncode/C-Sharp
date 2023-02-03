@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.04\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\CSharp\Chapter.04\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\CSharp\Chapter.04\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\CSharp\Chapter.04\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\CSharp\Chapter.04\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\CSharp\Chapter.04\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
