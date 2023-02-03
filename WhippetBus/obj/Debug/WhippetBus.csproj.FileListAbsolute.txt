@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.06\WhippetBus\bin\Debug\WhippetBus.exe.config
+C:\CSharp\Chapter.06\WhippetBus\bin\Debug\WhippetBus.exe
+C:\CSharp\Chapter.06\WhippetBus\bin\Debug\WhippetBus.pdb
+C:\CSharp\Chapter.06\WhippetBus\obj\Debug\WhippetBus.csprojAssemblyReference.cache
+C:\CSharp\Chapter.06\WhippetBus\obj\Debug\WhippetBus.exe
+C:\CSharp\Chapter.06\WhippetBus\obj\Debug\WhippetBus.pdb
