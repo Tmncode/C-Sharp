@@ -1,0 +1,6 @@
+C:\CSharp\Chapter.11\FindAquareRoot\bin\Debug\FindAquareRoot.exe.config
+C:\CSharp\Chapter.11\FindAquareRoot\bin\Debug\FindAquareRoot.exe
+C:\CSharp\Chapter.11\FindAquareRoot\bin\Debug\FindAquareRoot.pdb
+C:\CSharp\Chapter.11\FindAquareRoot\obj\Debug\FindAquareRoot.csprojAssemblyReference.cache
+C:\CSharp\Chapter.11\FindAquareRoot\obj\Debug\FindAquareRoot.exe
+C:\CSharp\Chapter.11\FindAquareRoot\obj\Debug\FindAquareRoot.pdb
