@@ -1,0 +1,9 @@
+C:\CSharp\Chapter.12\MyFlix\bin\Debug\MyFlix.exe.config
+C:\CSharp\Chapter.12\MyFlix\bin\Debug\MyFlix.exe
+C:\CSharp\Chapter.12\MyFlix\bin\Debug\MyFlix.pdb
+C:\CSharp\Chapter.12\MyFlix\obj\Debug\MyFlix.csprojAssemblyReference.cache
+C:\CSharp\Chapter.12\MyFlix\obj\Debug\MyFlix.Form1.resources
+C:\CSharp\Chapter.12\MyFlix\obj\Debug\MyFlix.Properties.Resources.resources
+C:\CSharp\Chapter.12\MyFlix\obj\Debug\MyFlix.csproj.GenerateResource.cache
+C:\CSharp\Chapter.12\MyFlix\obj\Debug\MyFlix.exe
+C:\CSharp\Chapter.12\MyFlix\obj\Debug\MyFlix.pdb
